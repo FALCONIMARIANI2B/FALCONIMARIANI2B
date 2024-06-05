@@ -1,16 +1,13 @@
-## Hi there 👋
+## BOAS VINDAS AO MEU PERFIL 💞
 
-<!--
-**FALCONIMARIANI2B/FALCONIMARIANI2B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MEU NOME É MARIANI
 
-Here are some ideas to get you started:
+- ESTOU ESTUDANDO NA [ALURA](https://www.alura.com.br) 
+- ESTOU ME DESENVOLVENDO NA LINGUAGEM JAVASCRIPT
+- UTILIZO ESSE ESPAÇO PARA MINHA ORGANIZAÇAO E COMPARTILHAMENTO DOS MEUS PROJETOS DESENVOLVIDOS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### VOCÊ ENTRA EM CONTATO COMIGO 📧📫
+
+
+![](https://media1.tenor.com/m/cq2TgsgZnRMAAAAC/kiss.gif)
+
